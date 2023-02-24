@@ -9,7 +9,8 @@ apt install nodejs -y
 npm i playwright
 npm i playwright-extra
 npx playwright install-deps
-npm i socks && npm i header-generator
+npm i socks
+npm i header-generator
 npm i request
 npm i cluster
 npm i gradient-string
